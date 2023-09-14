@@ -3,7 +3,7 @@ The goal of this project is to address this issue by developing a new method for
 The phone's data is then used to classify the user's level of intoxication. We believe our method has the potential to be a useful tool in the prevention of intoxication-related injuries.
 
 **How to run this project**
-1) Download or clone this repository (use % git clone https://github.com/CS328-Spring2023/project-proposal-group_13.git)
+1) Download or clone this repository (use % git clone 'url')
 2) With the data provided in *src/data*, run *activity-classification-train.py* to train the model and store a .pickle file with is used as the classifier
 3) If you want you can add more data using the Sensor Logger app, convert to CSV format and export in .zip format
 4) Connect your laptop to your phone hotspot. 
